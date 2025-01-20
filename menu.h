@@ -1,7 +1,7 @@
 int start_menu()
 {
      bool running=true;
-     int x,y;
+     int x,y,z;
 
      bike_process bk;
 //https://www.willusher.io/sdl2%20tutorials/2013/08/20/lesson-4-handling-events
