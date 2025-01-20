@@ -1,7 +1,7 @@
 //Constants for height and width of the screen ..
      const int WIDTH=800;
      const int HEIGHT=600;
-     const int BPP=32;
+     const int BPP=30;
 
 //Constant for Layes..
      const int START_LAYER_Y = 530;        //Starting y position of the base layer or the ground surface of the plane...
