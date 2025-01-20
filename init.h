@@ -9,7 +9,7 @@ bool init_all()
 //SDL_SWSURFACE	Create the video surface in system memory
     if(screen==NULL)
     {
-        return false;
+        return true;
     }
 
     if(TTF_Init()==-1)                  //Font Initialization...
